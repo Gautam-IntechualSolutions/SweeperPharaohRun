@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{314FC681-11C3-4D4F-7187-3251B21C95BA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="13" Column="47" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/MainScreen.cs" Line="86" Column="46" />
+      <File FileName="Assets/Scripts/PlayArea.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="19" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SweeperPharaohRun" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Player.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a1c125ff-c390-41fd-9a64-af46c2264b2d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
